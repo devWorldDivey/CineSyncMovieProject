@@ -2,7 +2,7 @@
 
 Welcome to CineSync! This is a dynamic, single-page web application designed to help users explore upcoming and newly released movies and TV series from around the world.
 
-![CineSync Screenshot](https://raw.githubusercontent.com/your-username/CineSync-Movie-Portal/main/cinesync-screenshot.png)
+![CineSync Screenshot](https://github.com/devWorldDivey/CineSyncMovieProject/blob/main/CineSync.png?raw=true)
 
 ---
 
