@@ -2,6 +2,13 @@
 
 Welcome to CineSync! This is a dynamic, single-page web application designed to help users explore upcoming and newly released movies and TV series from around the world.
 
+---
+### 🚀 Live Demo
+
+**[Click here to see the live project!](https://devworlddivey.github.io/CineSyncMovieProject/)** 
+<!-- IMPORTANT: Replace this with your actual GitHub Pages URL -->
+---
+
 ![CineSync Screenshot](https://github.com/devWorldDivey/CineSyncMovieProject/blob/main/CineSync.png?raw=true)
 
 ---
@@ -45,4 +52,4 @@ This project was built from scratch using modern web technologies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/devWorldDivey/CineSyncMovieProject.git
